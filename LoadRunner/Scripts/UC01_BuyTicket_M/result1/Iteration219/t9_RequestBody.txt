@@ -1,0 +1,4 @@
+"firstName=Andy&lastName=Shield&address1=+Art+st.&address2=Ekaterinburg&pass1=Andy+Shield&credi"
+"tCard=123456789123&expDate=05%2F81&oldCCOption=&numPassengers=1&seatType=First&seatPref=Window"
+"&outboundFlight=860%3B1379%3B07%2F24%2F2022&advanceDiscount=0&returnFlight=680%3B1379%3B07%2F3"
+"0%2F2022&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"

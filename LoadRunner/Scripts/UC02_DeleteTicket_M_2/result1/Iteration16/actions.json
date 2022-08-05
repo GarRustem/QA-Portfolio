@@ -1,0 +1,75 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP61",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1658610271150
+            },
+            {
+                "stepId": "STEP62",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1658610271316
+            },
+            {
+                "stepId": "STEP63",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t4.inf",
+                "time": 1658610272057
+            },
+            {
+                "stepId": "STEP64",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t5.inf",
+                "time": 1658610272293
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "homepage",
+                "rawStartTime": 1658610270997,
+                "rawEndTime": 1658610271150,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04419374465942383
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1658610271154,
+                "rawEndTime": 1658610271318,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03966355323791504
+            },
+            {
+                "transactionName": "go_itinerary",
+                "rawStartTime": 1658610271326,
+                "rawEndTime": 1658610272060,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06868147850036621
+            },
+            {
+                "transactionName": "delete_ticket(s)",
+                "rawStartTime": 1658610272075,
+                "rawEndTime": 1658610272122,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1658610272138,
+                "rawEndTime": 1658610272293,
+                "thinkTime": 0.0,
+                "wastedTime": 0.048699140548706058
+            },
+            {
+                "transactionName": "UC02_DeleteTicket",
+                "rawStartTime": 1658610270982,
+                "rawEndTime": 1658610272310,
+                "thinkTime": 0.0,
+                "wastedTime": 0.20123791694641114
+            }
+        ]
+    }
+]

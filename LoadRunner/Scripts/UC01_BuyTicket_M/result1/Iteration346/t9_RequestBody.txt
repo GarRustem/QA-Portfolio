@@ -1,0 +1,4 @@
+"firstName=Samantha&lastName=Rise&address1=+Palm+st.&address2=Moscow&pass1=Samantha+Rise&credit"
+"Card=567856789341&expDate=02%2F78&oldCCOption=&numPassengers=1&seatType=First&seatPref=ZAisle&"
+"outboundFlight=620%3B1099%3B07%2F24%2F2022&advanceDiscount=0&returnFlight=260%3B1099%3B07%2F30"
+"%2F2022&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"

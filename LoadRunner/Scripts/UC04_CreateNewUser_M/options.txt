@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC04_CreateNewUser_M
+-IC:\LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc04_createnewuser_m\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc04_createnewuser_m\\combined_UC04_CreateNewUser_M.c
+c:\users\sangu\documents\vugen\scripts\uc04_createnewuser_m\\pre_cci.c

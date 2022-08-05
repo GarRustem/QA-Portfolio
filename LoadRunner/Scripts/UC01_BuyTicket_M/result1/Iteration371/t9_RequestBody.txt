@@ -1,0 +1,4 @@
+"firstName=Jojo&lastName=Bean&address1=+Sakura+st.&address2=Pekin&pass1=Jojo+Bean&creditCard=14"
+"2356782319&expDate=09%2F85&oldCCOption=&numPassengers=1&seatType=Business&seatPref=None&outbou"
+"ndFlight=010%3B559%3B07%2F24%2F2022&advanceDiscount=0&returnFlight=100%3B559%3B07%2F30%2F2022&"
+"JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"

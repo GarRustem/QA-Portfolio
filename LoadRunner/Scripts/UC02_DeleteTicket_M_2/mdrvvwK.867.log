@@ -1,0 +1,349 @@
+Action.c(77):     <b>\n
+Action.c(77):     <label><input type="checkbox" name="28" value="on" /></label></font></b>\n
+Action.c(77):     <input type="hidden" name="flightID" value="339103357-22284715-JB"  />\n
+Action.c(77):       </TD>\n
+Action.c(77):       <TD width="45%" valign="top">\n
+Action.c(77):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(77):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(77):           <li><i>Jojo Bean\n
+Action.c(77):           <li><i></i>\n
+Action.c(77):           </td></tr></table></center>\n
+Action.c(77):       </TD>\n
+Action.c(77):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(77):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(77):           <center>\n
+Action.c(77):           <T
+Action.c(77): t=1334080ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=704)
+Action.c(77):     \r\n
+Action.c(77):     e67\r\n
+Action.c(77): t=1334080ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=704)
+Action.c(77):     \r\n
+Action.c(77):     0\r\n
+Action.c(77):     \r\n
+Action.c(77): t=1334080ms: 3735-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=704)
+Action.c(77):     able width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(77):               Jojo Bean\n
+Action.c(77):     <br/>\n
+Action.c(77):                Orb st.<br/>\n
+Action.c(77):               Ekaterinburg<br/>\n
+Action.c(77):               <br/>\n
+Action.c(77):               Total Charge: $ 1298 <BR/> (CC: x-9155)\n
+Action.c(77):           </td> </tr> </table>\n
+Action.c(77):           </center>\n
+Action.c(77):       </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     <TR bgcolor="#EFF2F7">\n
+Action.c(77):       <TD COLSPAN="3">\n
+Action.c(77):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(77):       07/22/2022\n
+Action.c(77):      :  8am : Flight 790 leaves Seattle  for Zurich.<br>  07/28/2022\n
+Action.c(77):      :  8am : Flight 970 leaves Zurich  for Seattle.<br>  </center>\n
+Action.c(77):       </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     \n
+Action.c(77):     <TR bgcolor="#EFF2F7">\n
+Action.c(77):       <TD COLSPAN="4">\n
+Action.c(77):       <hr/>\n
+Action.c(77):       </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     \n
+Action.c(77):     <!-- Flight #1 -->\n
+Action.c(77):     <TR bgcolor="#EFF2F7">\n
+Action.c(77):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(77):     <b>\n
+Action.c(77):     <label><input type="checkbox" name="29" value="on" /></label></font></b>\n
+Action.c(77):     <input type="hidden" name="flightID" value="337896685-2240076-JB"  />\n
+Action.c(77):       </TD>\n
+Action.c(77):       <TD width="45%" valign="top">\n
+Action.c(77):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(77):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(77):           <li><i>Jojo Bean\n
+Action.c(77):           <li><i></i>\n
+Action.c(77):           </td></tr></table></center>\n
+Action.c(77):       </TD>\n
+Action.c(77):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(77):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(77):           <center>\n
+Action.c(77):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(77):               Jojo Bean\n
+Action.c(77):     <br/>\n
+Action.c(77):                Kremlin st.<br/>\n
+Action.c(77):               New York<br/>\n
+Action.c(77):               <br/>\n
+Action.c(77):               Total Charge: $ 998 <BR/> (CC: x-9123)\n
+Action.c(77):           </td> </tr> </table>\n
+Action.c(77):           </center>\n
+Action.c(77):       </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     <TR bgcolor="#EFF2F7">\n
+Action.c(77):       <TD COLSPAN="3">\n
+Action.c(77):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(77):       07/22/2022\n
+Action.c(77):      :  8am : Flight 210 leaves London  for Frankfurt.<br>  07/28/2022\n
+Action.c(77):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(77):       </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     \n
+Action.c(77):     <TR bgcolor="#EFF2F7">\n
+Action.c(77):       <TD COLSPAN="4">\n
+Action.c(77):       <hr/>\n
+Action.c(77):       </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     <TR>\n
+Action.c(77):        <TD align="center" COLSPAN="4">\n
+Action.c(77):        <b>A total of 29 scheduled flights.</font></b>\n
+Action.c(77):        </TD>\n
+Action.c(77):     </TR>\n
+Action.c(77):     </TABLE>\n
+Action.c(77):     \n
+Action.c(77):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(77):     <TR>\n
+Action.c(77):     <TD align="left" width="50%" >\n
+Action.c(77):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(77):     er="0" /></TD>\n
+Action.c(77):     <TD align="right" width="50%" >\n
+Action.c(77):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(77):     f" border="0" /></TD>\n
+Action.c(77):     </TABLE>\n
+Action.c(77):     \n
+Action.c(77):     <div><input type="hidden" name=".cgifields" value="11"  /><input type="hidden" name=".cgif
+Action.c(77):     ields" value="21"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidd
+Action.c(77):     en" name=".cgifields" value="26"  /><input type="hidden" name=".cgifields" value="17"  /><
+Action.c(77):     input type="hidden" name=".cgifields" value="2"  /><input type="hidden" name=".cgifields" 
+Action.c(77):     value="22"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" nam
+Action.c(77):     e=".cgifields" value="18"  /><input type="hidden" name=".cgifields" value="23"  /><input t
+Action.c(77):     ype="hidden" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value=
+Action.c(77):     "13"  /><input type="hidden" name=".cgifields" value="29"  /><input type="hidden" name=".c
+Action.c(77):     gifields" value="27"  /><input type="hidden" name=".cgifields" value="25"  /><input type="
+Action.c(77):     hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifields" value="28"  
+Action.c(77):     /><input type="hidden" name=".cgifields" value="3"  /><input type="hidden" name=".cgifield
+Action.c(77):     s" value="9"  /><input type="hidden" name=".cgifields" value="12"  /><input type="hidden" 
+Action.c(77):     name=".cgifields" value="20"  /><input type="hidden" name=".cgifields" value="14"  /><inpu
+Action.c(77):     t type="hidden" name=".cgifields" value="15"  /><input type="hidden" name=".cgifields" val
+Action.c(77):     ue="8"  /><input type="hidden" name=".cgifields" value="4"  /><input type="hidden" name=".
+Action.c(77):     cgifields" value="24"  /><input type="hidden" name=".cgifields" value="19"  /><input type=
+Action.c(77):     "hidden" name=".cgifields" value="10"  /><input type="hidden" name=".cgifields" value="5" 
+Action.c(77):      /></div></form>\n
+Action.c(77):     \n
+Action.c(77):     </center>\n
+Action.c(77):     \n
+Action.c(77):     </body>\n
+Action.c(77):     </html>
+Action.c(77): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(77): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(77): t=1334083ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(77): Registered web_reg_find successful for "Text=scheduled flights" (count=1)  	[MsgId: MMSG-26364]
+Action.c(77): Registered web_reg_find successful for "Text=859140791-19892519-JB"  	[MsgId: MMSG-26362]
+Action.c(77): web_submit_form("itinerary.pl") was successful, 36331 body bytes, 256 header bytes, 75 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(99): Notify: Transaction "delete_ticket(s)" ended with a "Pass" status (Duration: 5,1220 Think Time: 5,0061 Wasted Time: 0,0001).	[MsgId: MMSG-16870]
+..\\common_lib.h(60): Notify: Transaction "logout" started.	[MsgId: MMSG-16999]
+..\\common_lib.h(62): web_reg_find started  	[MsgId: MMSG-26355]
+..\\common_lib.h(62): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\common_lib.h(64): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\common_lib.h(64): t=1334084ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334084ms: 450-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=705)
+..\\common_lib.h(64):     GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1\r\n
+..\\common_lib.h(64):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights\r\n
+..\\common_lib.h(64):     User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko\r\n
+..\\common_lib.h(64):     Accept-Encoding: gzip, deflate\r\n
+..\\common_lib.h(64):     Accept-Language: ru-RU\r\n
+..\\common_lib.h(64):     Accept: */*\r\n
+..\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\common_lib.h(64):     Host: localhost:1080\r\n
+..\\common_lib.h(64):     Cookie: MSO=SID&1658395771; MTUserInfo=firstName&Jojo&address2&&username&jojo&hash&47&last
+..\\common_lib.h(64):     Name&Bean%0A&address1&&creditCard&&expDate&%0A\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334178ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=705)
+..\\common_lib.h(64):     HTTP/1.1 200 OK\r\n
+..\\common_lib.h(64):     Date: Thu, 21 Jul 2022 09:29:42 GMT\r\n
+..\\common_lib.h(64):     Server: Apache/2.2.21 (Win32)\r\n
+..\\common_lib.h(64):     Set-Cookie: MSO=SID&1658395782; path=/\r\n
+..\\common_lib.h(64):     Set-Cookie: MTUserInfo=; path=/; expires=Wed, 20-Jul-2022 09:29:42 GMT\r\n
+..\\common_lib.h(64):     Keep-Alive: timeout=5, max=99\r\n
+..\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\common_lib.h(64):     Transfer-Encoding: chunked\r\n
+..\\common_lib.h(64):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334179ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=705)
+..\\common_lib.h(64):     2ae\r\n
+..\\common_lib.h(64): t=1334179ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=705)
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334179ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=705)
+..\\common_lib.h(64):     <!-- \n
+..\\common_lib.h(64):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\common_lib.h(64):      Also, the server options have been loaded into the cookie called\n
+..\\common_lib.h(64):      MSO as well.  The server options can be set via the Admin page.\n
+..\\common_lib.h(64):      --->\n
+..\\common_lib.h(64):     \n
+..\\common_lib.h(64):     <html>\n
+..\\common_lib.h(64):     <title>Web Tours</title>\n
+..\\common_lib.h(64):        <!-- Frame Set -->\n
+..\\common_lib.h(64):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\common_lib.h(64):           <!-- Navigation Frame -->\n
+..\\common_lib.h(64):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\common_lib.h(64):                 noresize="noresize" scrolling="auto"/>\n
+..\\common_lib.h(64):           <!-- Home Frame -->\n
+..\\common_lib.h(64):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\common_lib.h(64):                 noresize="noresize" scrolling="auto"/>\n
+..\\common_lib.h(64):        </frameset>\n
+..\\common_lib.h(64):     </html>\n
+..\\common_lib.h(64):     \n
+..\\common_lib.h(64):     </body>\n
+..\\common_lib.h(64):     </html>
+..\\common_lib.h(64): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\common_lib.h(64): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\common_lib.h(64): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\common_lib.h(64): t=1334179ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=707)
+..\\common_lib.h(64):     <HTML>\n
+..\\common_lib.h(64):     <HEAD>\n
+..\\common_lib.h(64):     \t<title>Web Tours</title>\n
+..\\common_lib.h(64):     </HEAD>\n
+..\\common_lib.h(64):     <style>\n
+..\\common_lib.h(64):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\common_lib.h(64):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\common_lib.h(64):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\common_lib.h(64):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\common_lib.h(64):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\common_lib.h(64):     N: none}\n
+..\\common_lib.h(64):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\common_lib.h(64):     CORATION: underline}\n
+..\\common_lib.h(64):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\common_lib.h(64):     </style>\n
+..\\common_lib.h(64):     <body bgcolor="#e0e7f1">\n
+..\\common_lib.h(64):     <BR/>\n
+..\\common_lib.h(64):     <BR/>\n
+..\\common_lib.h(64):     <BR/>\n
+..\\common_lib.h(64):     <br/>\n
+..\\common_lib.h(64):     <table border="0">\n
+..\\common_lib.h(64):     <tr><td></td></tr>\n
+..\\common_lib.h(64):     <TR><TD></TD></TR>\n
+..\\common_lib.h(64):     <TR><TD>\n
+..\\common_lib.h(64):     <blockquote>\n
+..\\common_lib.h(64):     <H1><b>Web Tours</b></H1>\n
+..\\common_lib.h(64):     Welcome to the Web Tours site.\n
+..\\common_lib.h(64):     <br/>\n
+..\\common_lib.h(64):     To make reservations,please enter your account information to the left.\n
+..\\common_lib.h(64):     <br/>\n
+..\\common_lib.h(64):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\common_lib.h(64):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\common_lib.h(64):     <br/>\n
+..\\common_lib.h(64):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\common_lib.h(64):     tration</b></A> link.\n
+..\\common_lib.h(64):     <br/><br/><br/><br/><br/><br/>\n
+..\\common_lib.h(64):     <br/><small>\n
+..\\common_lib.h(64):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\common_lib.h(64):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\common_lib.h(64):     </small>\n
+..\\common_lib.h(64):     </blockquote></TD>\n
+..\\common_lib.h(64):     <TD></TD></TR>\n
+..\\common_lib.h(64):     </table>\n
+..\\common_lib.h(64):     </body>\n
+..\\common_lib.h(64):     </HTML>\n
+..\\common_lib.h(64): t=1334180ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334180ms: 327-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\common_lib.h(64):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+..\\common_lib.h(64):     User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko\r\n
+..\\common_lib.h(64):     Accept-Encoding: gzip, deflate\r\n
+..\\common_lib.h(64):     Accept-Language: ru-RU\r\n
+..\\common_lib.h(64):     Accept: */*\r\n
+..\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\common_lib.h(64):     Host: localhost:1080\r\n
+..\\common_lib.h(64):     Cookie: MSO=SID&1658395782\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334181ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). Considering retry  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334181ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334181ms: reporting user data point RETRY_KEEP_ALIVE  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334181ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334181ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=705)
+..\\common_lib.h(64):     0\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334181ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334181ms: Connected socket [2] from 127.0.0.1:58016 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): t=1334181ms: 327-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\common_lib.h(64):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+..\\common_lib.h(64):     User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko\r\n
+..\\common_lib.h(64):     Accept-Encoding: gzip, deflate\r\n
+..\\common_lib.h(64):     Accept-Language: ru-RU\r\n
+..\\common_lib.h(64):     Accept: */*\r\n
+..\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\common_lib.h(64):     Host: localhost:1080\r\n
+..\\common_lib.h(64):     Cookie: MSO=SID&1658395782\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334237ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     HTTP/1.1 200 OK\r\n
+..\\common_lib.h(64):     Date: Thu, 21 Jul 2022 09:29:42 GMT\r\n
+..\\common_lib.h(64):     Server: Apache/2.2.21 (Win32)\r\n
+..\\common_lib.h(64):     Expires: Wed, 20 Jul 2022 09:29:42 GMT\r\n
+..\\common_lib.h(64):     Keep-Alive: timeout=5, max=100\r\n
+..\\common_lib.h(64):     Connection: Keep-Alive\r\n
+..\\common_lib.h(64):     Transfer-Encoding: chunked\r\n
+..\\common_lib.h(64):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334237ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     5cb\r\n
+..\\common_lib.h(64): t=1334237ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334237ms: 1483-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     <!DOCTYPE html\n
+..\\common_lib.h(64):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\common_lib.h(64):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\common_lib.h(64):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\common_lib.h(64):     <head>\n
+..\\common_lib.h(64):     <title>Web Tours Navigation Bar</title>\n
+..\\common_lib.h(64):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\common_lib.h(64):     </head>\n
+..\\common_lib.h(64):     <body bgcolor="#E0E7F1">\n
+..\\common_lib.h(64):     <style>\n
+..\\common_lib.h(64):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\common_lib.h(64):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\common_lib.h(64):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\common_lib.h(64):     small {font-family: tahoma; font-size : 8pt}\n
+..\\common_lib.h(64):     </style>\n
+..\\common_lib.h(64):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\common_lib.h(64):     <input type="hidden" name="userSession" value="134337.44690158zQAQQicptcftVtfQpiQtff"/>\n
+..\\common_lib.h(64):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td>&nbsp;</td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td>&nbsp;</td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td><small>&nbsp;Password</small></td>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td>&nbsp;</td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td>\n
+..\\common_lib.h(64):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\common_lib.h(64):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\common_lib.h(64):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\common_lib.h(64):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\common_lib.h(64):     </form>\n
+..\\common_lib.h(64):     \n
+..\\common_lib.h(64):     </body>\n
+..\\common_lib.h(64):     </html>\n
+..\\common_lib.h(64): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\common_lib.h(64): t=1334240ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=706)
+..\\common_lib.h(64):     0\r\n
+..\\common_lib.h(64):     \r\n
+..\\common_lib.h(64): t=1334240ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\common_lib.h(64): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
+..\\common_lib.h(64): web_url("SignOff Button") was successful, 2169 body bytes, 583 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\common_lib.h(74): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,1567 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(107): Notify: Transaction "UC02_DeleteTicket" ended with a "Pass" status (Duration: 10,7607 Think Time: 10,0112 Wasted Time: 0,0025).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 28.	[MsgId: MMSG-15965]
+Waiting 38,2370 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(77): t=1344975ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Action.c(77): t=1344975ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=10, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 22732), ended OK."	[MsgId: MMSG-10695]

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC05_Itinerary_M
+-IC:\LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc05_itinerary_m\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc05_itinerary_m\\combined_UC05_Itinerary_M.c
+c:\users\sangu\documents\vugen\scripts\uc05_itinerary_m\\pre_cci.c

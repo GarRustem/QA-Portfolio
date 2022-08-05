@@ -1,0 +1,4 @@
+"firstName=John&lastName=Smith&address1=+Sakura+st.&address2=Tokio&pass1=John+Smith&creditCard="
+"142356782319&expDate=08%2F84&oldCCOption=&numPassengers=1&seatType=Coach&seatPref=None&outboun"
+"dFlight=600%3B202%3B07%2F24%2F2022&advanceDiscount=0&returnFlight=060%3B202%3B07%2F30%2F2022&J"
+"SFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"

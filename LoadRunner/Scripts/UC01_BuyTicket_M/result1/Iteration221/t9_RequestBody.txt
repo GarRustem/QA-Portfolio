@@ -1,0 +1,4 @@
+"firstName=Jojo&lastName=Bean&address1=+Sakura+st.&address2=Berlin&pass1=Jojo+Bean&creditCard=4"
+"32156789123&expDate=01%2F77&oldCCOption=&numPassengers=1&seatType=Coach&seatPref=None&outbound"
+"Flight=320%3B773%3B07%2F24%2F2022&advanceDiscount=0&returnFlight=230%3B773%3B07%2F30%2F2022&JS"
+"FormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"
